@@ -5,4 +5,4 @@ Git is a good software.
 Git is a bad software.
 The third modify.
 four
-Create a new branch is quick.
+Create a new branch is quick & simple.
