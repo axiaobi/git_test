@@ -4,6 +4,5 @@ Git has a mutable index called stage.
 Git is a good software.
 Git is a bad software.
 The third modify.
-four
 Create a new branch is quick and simple.
 
